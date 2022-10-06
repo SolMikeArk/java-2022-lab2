@@ -36,8 +36,8 @@ public class BinaryViewer {
 		System.out.println(str);
 		System.out.println("""
 				||-Exp--||                     |
-		        |7      0|-------Mantissa------|
-		        |Sign""");
+				|7      0|-------Mantissa------|
+				Sign""");
 		
 		System.out.println(
 				"(-1)^" +
